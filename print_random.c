@@ -9,7 +9,7 @@
 */
 char randchar()
 {
-	return (char)('A' + (rand()%26))
+	return (char)('A' + (rand()%26));
 }//close randchar()
 
 int main()
