@@ -5,7 +5,7 @@
 /*
 * Summary: Function that generates a random char between A-Z
 * Input: None
-* Output: char between A-Z (Uppercase as stated in lab instructions.
+* Output: char between A-Z (Uppercase as stated in lab instructions)
 */
 char randchar()
 {
